@@ -1,2 +1,2 @@
-# solace-excel-addin
-Solace Excel (SolaceXL) AddIn allows you to stream messages from a Solace Message Router into your Excel sheets.
+# (ARCHIVED) solace-excel-addin
+This project has been replaced by a newer version: https://github.com/dishantlangayan/SolaceRTDExcel
